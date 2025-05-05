@@ -1,1 +1,1 @@
-# Deribit_Downloader
+Updated README with details about PathManager, DataValidator, and DataWriter.
